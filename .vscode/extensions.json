@@ -3,6 +3,13 @@
         "ms-python.python",
         "redhat.ansible",
         "redhat.vscode-openshift-connector",
-        "ms-python.black-formatter"
+        "ms-python.black-formatter",
+        "samuelcolvin.jinjahtml",
+        "eamodio.gitlens",
+        "wholroyd.jinja",
+        "tuxtina.json2yaml",
+        "humao.rest-client",
+        "Gruntfuggly.todo-tree",
+        "wayou.vscode-todo-highlight"
     ]
 }
